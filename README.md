@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**snggamer/snggamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I’m snggamer 👋
+I build Web3 tools for on-chain analytics, airdrop research, and RPC performance checks.
+🔭 Current focus: Legion-friendly contributions (PRs/Issues), small CLI utilities, docs.
+🧰 Stack: TypeScript, Python, Rust (plus Shell/Go when needed).
+🌍 Based in Madrid, available for async collab.
+Featured projects:
+RPC Latency Checker — compare multiple endpoints, JSON export.
+ABI Validator — detect incompatible events/functions, typed bindings.
+Airdrop Analytics CLI — holders, top wallets, release cadence.
+Get in touch:
+Email: sqeezy14@hotmail.com
